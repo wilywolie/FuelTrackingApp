@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27332923127",
+    "project_id": "ayts-project",
+    "storage_bucket": "ayts-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27332923127:android:aef2c9d97a6116bc7bcdf2",
+        "android_client_info": {
+          "package_name": "com.wilywolie.ayts_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27332923127-7rvu8abhbpij4chuofv3ted83sevm011.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoV-PbKbJz5aDkKxX2aUr9hdUvyXNma9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27332923127-7rvu8abhbpij4chuofv3ted83sevm011.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
